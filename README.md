@@ -1,6 +1,6 @@
-# ooad_project_3
+ ooad_project_3
 
-#Team Members
+Team Members
 Mohan Dwarampudi
 Sankaranarayanan
 
@@ -9,7 +9,7 @@ Language used : Java 8
 Environment used : Eclipse IDE, JUnit Testcase.
 <br/>
 
-##Instructions to run the code ##
+Instructions to run the code 
 
 1.Import the project into IDE workspace.
 <br/>
