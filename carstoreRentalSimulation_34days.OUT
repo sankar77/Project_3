@@ -1,0 +1,1003 @@
+Total number of luxury vehicles remaining in the store 6
+Luxury vehicles license ids remaining in the store are [LX0, LX1, LX2, LX3, LX4, LX5]
+Total number of MiniVan vehicles remaining in the store 6
+MiniVan vehicles license ids remaining in the store are [MV0, MV1, MV2, MV3, MV4, MV5]
+Total number of Standard vehicles remaining in the store 6
+Standard vehicles license ids remaining in the store are [SD0, SD1, SD2, SD3, SD4, SD5]
+Total number of SUV vehicles remaining in the store 5
+SUV vehicles license ids remaining in the store are [SU0, SU1, SU2, SU3, SU4]
+Total number of MiniVan vehicles remaining in the store 5
+MiniVan vehicles license ids remaining in the store are [EC0, EC1, EC2, EC3, EC4]
+-----Day NUmber 1-------
+Customer BusinessCustomer2 enters the store
+customer purchases cartype Luxury4
+License Plate of car purchased is LX0
+Addons: GPS4
+Price of RentalRecord is 95
+customer purchases cartype Economy3
+License Plate of car purchased is EC1
+Addons: childSeat3
+Price of RentalRecord is 185
+customer purchases cartype Standard2
+License Plate of car purchased is SD2
+Addons: GPS2
+Price of RentalRecord is 259
+Total price the store made that day 259
+Total number of luxury vehicles remaining in the store 5
+Luxury vehicles license ids remaining in the store are [LX1, LX2, LX3, LX4, LX5]
+Total number of MiniVan vehicles remaining in the store 6
+MiniVan vehicles license ids remaining in the store are [MV0, MV1, MV2, MV3, MV4, MV5]
+Total number of Standard vehicles remaining in the store 5
+Standard vehicles license ids remaining in the store are [SD0, SD1, SD3, SD4, SD5]
+Total number of SUV vehicles remaining in the store 5
+SUV vehicles license ids remaining in the store are [SU0, SU1, SU2, SU3, SU4]
+Total number of MiniVan vehicles remaining in the store 4
+MiniVan vehicles license ids remaining in the store are [EC0, EC2, EC3, EC4]
+-----Day NUmber 2-------
+Customer BusinessCustomer5 enters the store
+customer purchases cartype Standard2
+License Plate of car purchased is SD0
+Addons: GPS2
+Price of RentalRecord is 74
+customer purchases cartype Standard2
+License Plate of car purchased is SD1
+Addons: GPS2
+Price of RentalRecord is 148
+customer purchases cartype SUV5
+License Plate of car purchased is SU2
+Addons: SatelliteRadio5
+Price of RentalRecord is 233
+Total price the store made that day 233
+Total number of luxury vehicles remaining in the store 5
+Luxury vehicles license ids remaining in the store are [LX1, LX2, LX3, LX4, LX5]
+Total number of MiniVan vehicles remaining in the store 6
+MiniVan vehicles license ids remaining in the store are [MV0, MV1, MV2, MV3, MV4, MV5]
+Total number of Standard vehicles remaining in the store 3
+Standard vehicles license ids remaining in the store are [SD3, SD4, SD5]
+Total number of SUV vehicles remaining in the store 4
+SUV vehicles license ids remaining in the store are [SU0, SU1, SU3, SU4]
+Total number of MiniVan vehicles remaining in the store 4
+MiniVan vehicles license ids remaining in the store are [EC0, EC2, EC3, EC4]
+-----Day NUmber 3-------
+Customer RegularCustomer6 enters the store
+customer purchases cartype SUV5
+License Plate of car purchased is SU0
+Addons: SatelliteRadio5
+Price of RentalRecord is 67
+customer purchases cartype MiniVan6
+License Plate of car purchased is MV1
+Addons: SatelliteRadio6
+Price of RentalRecord is 129
+Total price the store made that day 129
+Total number of luxury vehicles remaining in the store 5
+Luxury vehicles license ids remaining in the store are [LX1, LX2, LX3, LX4, LX5]
+Total number of MiniVan vehicles remaining in the store 5
+MiniVan vehicles license ids remaining in the store are [MV0, MV2, MV3, MV4, MV5]
+Total number of Standard vehicles remaining in the store 3
+Standard vehicles license ids remaining in the store are [SD3, SD4, SD5]
+Total number of SUV vehicles remaining in the store 3
+SUV vehicles license ids remaining in the store are [SU1, SU3, SU4]
+Total number of MiniVan vehicles remaining in the store 4
+MiniVan vehicles license ids remaining in the store are [EC0, EC2, EC3, EC4]
+-----Day NUmber 4-------
+Customer BusinessCustomer10 enters the store
+customer purchases cartype MiniVan6
+License Plate of car purchased is MV0
+Addons: SatelliteRadio6
+Price of RentalRecord is 78
+customer purchases cartype Economy3
+License Plate of car purchased is EC4
+Addons: childSeat3
+Price of RentalRecord is 168
+customer purchases cartype Luxury4
+License Plate of car purchased is LX2
+Addons: GPS4
+Price of RentalRecord is 263
+Total price the store made that day 263
+Total number of luxury vehicles remaining in the store 4
+Luxury vehicles license ids remaining in the store are [LX1, LX3, LX4, LX5]
+Total number of MiniVan vehicles remaining in the store 4
+MiniVan vehicles license ids remaining in the store are [MV2, MV3, MV4, MV5]
+Total number of Standard vehicles remaining in the store 3
+Standard vehicles license ids remaining in the store are [SD3, SD4, SD5]
+Total number of SUV vehicles remaining in the store 3
+SUV vehicles license ids remaining in the store are [SU1, SU3, SU4]
+Total number of MiniVan vehicles remaining in the store 3
+MiniVan vehicles license ids remaining in the store are [EC0, EC2, EC3]
+-----Day NUmber 5-------
+Customer RegularCustomer8 enters the store
+customer purchases cartype Economy3
+License Plate of car purchased is EC0
+Addons: childSeat3
+Price of RentalRecord is 70
+customer purchases cartype MiniVan6
+License Plate of car purchased is MV5
+Addons: SatelliteRadio6
+Price of RentalRecord is 132
+Total price the store made that day 132
+Total number of luxury vehicles remaining in the store 4
+Luxury vehicles license ids remaining in the store are [LX1, LX3, LX4, LX5]
+Total number of MiniVan vehicles remaining in the store 3
+MiniVan vehicles license ids remaining in the store are [MV2, MV3, MV4]
+Total number of Standard vehicles remaining in the store 3
+Standard vehicles license ids remaining in the store are [SD3, SD4, SD5]
+Total number of SUV vehicles remaining in the store 3
+SUV vehicles license ids remaining in the store are [SU1, SU3, SU4]
+Total number of MiniVan vehicles remaining in the store 2
+MiniVan vehicles license ids remaining in the store are [EC2, EC3]
+-----Day NUmber 6-------
+Customer BusinessCustomer3 enters the store
+customer purchases cartype Luxury4
+License Plate of car purchased is LX5
+Addons: GPS4
+Price of RentalRecord is 95
+customer purchases cartype Luxury4
+License Plate of car purchased is LX1
+Addons: GPS4
+Price of RentalRecord is 190
+customer purchases cartype Luxury4
+License Plate of car purchased is LX4
+Addons: GPS4
+Price of RentalRecord is 285
+Total price the store made that day 285
+Total number of luxury vehicles remaining in the store 1
+Luxury vehicles license ids remaining in the store are [LX3]
+Total number of MiniVan vehicles remaining in the store 3
+MiniVan vehicles license ids remaining in the store are [MV2, MV3, MV4]
+Total number of Standard vehicles remaining in the store 3
+Standard vehicles license ids remaining in the store are [SD3, SD4, SD5]
+Total number of SUV vehicles remaining in the store 3
+SUV vehicles license ids remaining in the store are [SU1, SU3, SU4]
+Total number of MiniVan vehicles remaining in the store 2
+MiniVan vehicles license ids remaining in the store are [EC2, EC3]
+-----Day NUmber 7-------
+Customer RegularCustomer4 enters the store
+customer purchases cartype SUV5
+License Plate of car purchased is SU1
+Addons: SatelliteRadio5
+Price of RentalRecord is 67
+customer purchases cartype Luxury4
+License Plate of car purchased is LX3
+Addons: GPS4
+Price of RentalRecord is 142
+Total price the store made that day 142
+Total number of luxury vehicles remaining in the store 0
+Luxury vehicles license ids remaining in the store are []
+Total number of MiniVan vehicles remaining in the store 3
+MiniVan vehicles license ids remaining in the store are [MV2, MV3, MV4]
+Total number of Standard vehicles remaining in the store 3
+Standard vehicles license ids remaining in the store are [SD3, SD4, SD5]
+Total number of SUV vehicles remaining in the store 2
+SUV vehicles license ids remaining in the store are [SU3, SU4]
+Total number of MiniVan vehicles remaining in the store 2
+MiniVan vehicles license ids remaining in the store are [EC2, EC3]
+Luxury
+Luxury4 returned by customerBusinessCustomer2
+Economy
+Economy3 returned by customerBusinessCustomer2
+Standard
+Standard2 returned by customerBusinessCustomer2
+Luxury
+Luxury4 returned by customerBusinessCustomer2
+Economy
+Economy3 returned by customerBusinessCustomer2
+Standard
+Standard2 returned by customerBusinessCustomer2
+Luxury
+Luxury4 returned by customerBusinessCustomer2
+Economy
+Economy3 returned by customerBusinessCustomer2
+Standard
+Standard2 returned by customerBusinessCustomer2
+SUV
+SUV5 returned by customerRegularCustomer6
+MiniVan
+MiniVan6 returned by customerRegularCustomer6
+SUV
+SUV5 returned by customerRegularCustomer6
+MiniVan
+MiniVan6 returned by customerRegularCustomer6
+-----Day NUmber 8-------
+Customer RegularCustomer9 enters the store
+customer purchases cartype SUV5
+License Plate of car purchased is SU0
+Addons: SatelliteRadio5
+Price of RentalRecord is 67
+customer purchases cartype Economy3
+License Plate of car purchased is EC1
+Addons: childSeat3
+Price of RentalRecord is 137
+Total price the store made that day 137
+Total number of luxury vehicles remaining in the store 3
+Luxury vehicles license ids remaining in the store are [LX0]
+Total number of MiniVan vehicles remaining in the store 5
+MiniVan vehicles license ids remaining in the store are [MV2, MV3, MV4, MV1]
+Total number of Standard vehicles remaining in the store 6
+Standard vehicles license ids remaining in the store are [SD3, SD4, SD5, SD2]
+Total number of SUV vehicles remaining in the store 3
+SUV vehicles license ids remaining in the store are [SU3, SU4]
+Total number of MiniVan vehicles remaining in the store 4
+MiniVan vehicles license ids remaining in the store are [EC2, EC3]
+Standard
+Standard2 returned by customerBusinessCustomer5
+Standard
+Standard2 returned by customerBusinessCustomer5
+SUV
+SUV5 returned by customerBusinessCustomer5
+Standard
+Standard2 returned by customerBusinessCustomer5
+Standard
+Standard2 returned by customerBusinessCustomer5
+SUV
+SUV5 returned by customerBusinessCustomer5
+Standard
+Standard2 returned by customerBusinessCustomer5
+Standard
+Standard2 returned by customerBusinessCustomer5
+SUV
+SUV5 returned by customerBusinessCustomer5
+-----Day NUmber 9-------
+Customer RegularCustomer9 enters the store
+customer purchases cartype Luxury4
+License Plate of car purchased is LX0
+Addons: GPS4
+Price of RentalRecord is 75
+customer purchases cartype SUV5
+License Plate of car purchased is SU2
+Addons: SatelliteRadio5
+Price of RentalRecord is 142
+Total price the store made that day 142
+Total number of luxury vehicles remaining in the store 2
+Luxury vehicles license ids remaining in the store are []
+Total number of MiniVan vehicles remaining in the store 5
+MiniVan vehicles license ids remaining in the store are [MV2, MV3, MV4, MV1]
+Total number of Standard vehicles remaining in the store 6
+Standard vehicles license ids remaining in the store are [SD3, SD4, SD5, SD2]
+Total number of SUV vehicles remaining in the store 4
+SUV vehicles license ids remaining in the store are [SU3, SU4]
+Total number of MiniVan vehicles remaining in the store 4
+MiniVan vehicles license ids remaining in the store are [EC2, EC3]
+Economy
+Economy3 returned by customerRegularCustomer8
+MiniVan
+MiniVan6 returned by customerRegularCustomer8
+Economy
+Economy3 returned by customerRegularCustomer8
+MiniVan
+MiniVan6 returned by customerRegularCustomer8
+-----Day NUmber 10-------
+Customer BusinessCustomer5 enters the store
+customer purchases cartype Standard2
+License Plate of car purchased is SD5
+Addons: GPS2
+Price of RentalRecord is 74
+customer purchases cartype Economy3
+License Plate of car purchased is EC3
+Addons: childSeat3
+Price of RentalRecord is 164
+customer purchases cartype MiniVan6
+License Plate of car purchased is MV2
+Addons: SatelliteRadio6
+Price of RentalRecord is 242
+Total price the store made that day 242
+Total number of luxury vehicles remaining in the store 2
+Luxury vehicles license ids remaining in the store are []
+Total number of MiniVan vehicles remaining in the store 5
+MiniVan vehicles license ids remaining in the store are [MV3, MV4, MV1, MV5]
+Total number of Standard vehicles remaining in the store 5
+Standard vehicles license ids remaining in the store are [SD3, SD4, SD2]
+Total number of SUV vehicles remaining in the store 4
+SUV vehicles license ids remaining in the store are [SU3, SU4]
+Total number of MiniVan vehicles remaining in the store 4
+MiniVan vehicles license ids remaining in the store are [EC2, EC0]
+MiniVan
+MiniVan6 returned by customerBusinessCustomer10
+Economy
+Economy3 returned by customerBusinessCustomer10
+Luxury
+Luxury4 returned by customerBusinessCustomer10
+MiniVan
+MiniVan6 returned by customerBusinessCustomer10
+Economy
+Economy3 returned by customerBusinessCustomer10
+Luxury
+Luxury4 returned by customerBusinessCustomer10
+MiniVan
+MiniVan6 returned by customerBusinessCustomer10
+Economy
+Economy3 returned by customerBusinessCustomer10
+Luxury
+Luxury4 returned by customerBusinessCustomer10
+-----Day NUmber 11-------
+Customer BusinessCustomer2 enters the store
+customer purchases cartype SUV5
+License Plate of car purchased is SU3
+Addons: SatelliteRadio5
+Price of RentalRecord is 85
+customer purchases cartype Standard2
+License Plate of car purchased is SD3
+Addons: GPS2
+Price of RentalRecord is 159
+customer purchases cartype Luxury4
+License Plate of car purchased is LX2
+Addons: GPS4
+Price of RentalRecord is 254
+Total price the store made that day 254
+Total number of luxury vehicles remaining in the store 4
+Luxury vehicles license ids remaining in the store are []
+Total number of MiniVan vehicles remaining in the store 6
+MiniVan vehicles license ids remaining in the store are [MV3, MV4, MV1, MV5, MV0]
+Total number of Standard vehicles remaining in the store 4
+Standard vehicles license ids remaining in the store are [SD4, SD2]
+Total number of SUV vehicles remaining in the store 3
+SUV vehicles license ids remaining in the store are [SU4]
+Total number of MiniVan vehicles remaining in the store 5
+MiniVan vehicles license ids remaining in the store are [EC2, EC0, EC4]
+SUV
+SUV5 returned by customerRegularCustomer4
+Luxury
+Luxury4 returned by customerRegularCustomer4
+SUV
+SUV5 returned by customerRegularCustomer4
+Luxury
+Luxury4 returned by customerRegularCustomer4
+-----Day NUmber 12-------
+Customer BusinessCustomer3 enters the store
+customer purchases cartype Standard2
+License Plate of car purchased is SD2
+Addons: GPS2
+Price of RentalRecord is 74
+customer purchases cartype Standard2
+License Plate of car purchased is SD4
+Addons: GPS2
+Price of RentalRecord is 148
+customer purchases cartype MiniVan6
+License Plate of car purchased is MV4
+Addons: SatelliteRadio6
+Price of RentalRecord is 226
+Total price the store made that day 226
+Total number of luxury vehicles remaining in the store 6
+Luxury vehicles license ids remaining in the store are [LX3]
+Total number of MiniVan vehicles remaining in the store 5
+MiniVan vehicles license ids remaining in the store are [MV3, MV1, MV5, MV0]
+Total number of Standard vehicles remaining in the store 2
+Standard vehicles license ids remaining in the store are []
+Total number of SUV vehicles remaining in the store 5
+SUV vehicles license ids remaining in the store are [SU4, SU1]
+Total number of MiniVan vehicles remaining in the store 5
+MiniVan vehicles license ids remaining in the store are [EC2, EC0, EC4]
+Luxury
+Luxury4 returned by customerBusinessCustomer3
+Luxury
+Luxury4 returned by customerBusinessCustomer3
+Luxury
+Luxury4 returned by customerBusinessCustomer3
+Luxury
+Luxury4 returned by customerBusinessCustomer3
+Luxury
+Luxury4 returned by customerBusinessCustomer3
+Luxury
+Luxury4 returned by customerBusinessCustomer3
+Luxury
+Luxury4 returned by customerBusinessCustomer3
+Luxury
+Luxury4 returned by customerBusinessCustomer3
+Luxury
+Luxury4 returned by customerBusinessCustomer3
+SUV
+SUV5 returned by customerRegularCustomer9
+Economy
+Economy3 returned by customerRegularCustomer9
+SUV
+SUV5 returned by customerRegularCustomer9
+Economy
+Economy3 returned by customerRegularCustomer9
+-----Day NUmber 13-------
+Customer CasualCustomer7 enters the store
+customer not able to purchase car of type null
+Price of RentalRecord is 0
+customer purchases cartype Economy3
+License Plate of car purchased is EC2
+Addons: childSeat3
+Price of RentalRecord is 40
+Total price the store made that day 40
+Total number of luxury vehicles remaining in the store 6
+Luxury vehicles license ids remaining in the store are [LX3]
+Total number of MiniVan vehicles remaining in the store 5
+MiniVan vehicles license ids remaining in the store are [MV3, MV1, MV5, MV0]
+Total number of Standard vehicles remaining in the store 2
+Standard vehicles license ids remaining in the store are []
+Total number of SUV vehicles remaining in the store 5
+SUV vehicles license ids remaining in the store are [SU4, SU1]
+Total number of MiniVan vehicles remaining in the store 4
+MiniVan vehicles license ids remaining in the store are [EC0, EC4]
+Luxury
+Luxury4 returned by customerRegularCustomer9
+SUV
+SUV5 returned by customerRegularCustomer9
+Luxury
+Luxury4 returned by customerRegularCustomer9
+SUV
+SUV5 returned by customerRegularCustomer9
+-----Day NUmber 14-------
+Customer BusinessCustomer2 enters the store
+customer not able to purchase car of type null
+Price of RentalRecord is 0
+customer purchases cartype SUV5
+License Plate of car purchased is SU1
+Addons: SatelliteRadio5
+Price of RentalRecord is 85
+customer purchases cartype MiniVan6
+License Plate of car purchased is MV3
+Addons: SatelliteRadio6
+Price of RentalRecord is 163
+Total price the store made that day 163
+Total number of luxury vehicles remaining in the store 6
+Luxury vehicles license ids remaining in the store are [LX3]
+Total number of MiniVan vehicles remaining in the store 4
+MiniVan vehicles license ids remaining in the store are [MV1, MV5, MV0]
+Total number of Standard vehicles remaining in the store 2
+Standard vehicles license ids remaining in the store are []
+Total number of SUV vehicles remaining in the store 4
+SUV vehicles license ids remaining in the store are [SU4]
+Total number of MiniVan vehicles remaining in the store 4
+MiniVan vehicles license ids remaining in the store are [EC0, EC4]
+Economy
+Economy3 returned by customerCasualCustomer7
+Economy
+Economy3 returned by customerCasualCustomer7
+-----Day NUmber 15-------
+Customer RegularCustomer4 enters the store
+customer purchases cartype SUV5
+License Plate of car purchased is SU4
+Addons: SatelliteRadio5
+Price of RentalRecord is 67
+customer purchases cartype Luxury4
+License Plate of car purchased is LX3
+Addons: GPS4
+Price of RentalRecord is 142
+Total price the store made that day 142
+Total number of luxury vehicles remaining in the store 5
+Luxury vehicles license ids remaining in the store are []
+Total number of MiniVan vehicles remaining in the store 4
+MiniVan vehicles license ids remaining in the store are [MV1, MV5, MV0]
+Total number of Standard vehicles remaining in the store 2
+Standard vehicles license ids remaining in the store are []
+Total number of SUV vehicles remaining in the store 3
+SUV vehicles license ids remaining in the store are []
+Total number of MiniVan vehicles remaining in the store 5
+MiniVan vehicles license ids remaining in the store are [EC0, EC4, EC2]
+-----Day NUmber 16-------
+Customer RegularCustomer11 enters the store
+customer not able to purchase car of type null
+Price of RentalRecord is 0
+customer purchases cartype Economy3
+License Plate of car purchased is EC0
+Addons: childSeat3
+Price of RentalRecord is 70
+Total price the store made that day 70
+Total number of luxury vehicles remaining in the store 5
+Luxury vehicles license ids remaining in the store are []
+Total number of MiniVan vehicles remaining in the store 4
+MiniVan vehicles license ids remaining in the store are [MV1, MV5, MV0]
+Total number of Standard vehicles remaining in the store 2
+Standard vehicles license ids remaining in the store are []
+Total number of SUV vehicles remaining in the store 3
+SUV vehicles license ids remaining in the store are []
+Total number of MiniVan vehicles remaining in the store 4
+MiniVan vehicles license ids remaining in the store are [EC4, EC2]
+Standard
+Standard2 returned by customerBusinessCustomer5
+Economy
+Economy3 returned by customerBusinessCustomer5
+MiniVan
+MiniVan6 returned by customerBusinessCustomer5
+Standard
+Standard2 returned by customerBusinessCustomer5
+Economy
+Economy3 returned by customerBusinessCustomer5
+MiniVan
+MiniVan6 returned by customerBusinessCustomer5
+Standard
+Standard2 returned by customerBusinessCustomer5
+Economy
+Economy3 returned by customerBusinessCustomer5
+MiniVan
+MiniVan6 returned by customerBusinessCustomer5
+-----Day NUmber 17-------
+Customer RegularCustomer6 enters the store
+customer purchases cartype Economy3
+License Plate of car purchased is EC4
+Addons: childSeat3
+Price of RentalRecord is 70
+customer purchases cartype Economy3
+License Plate of car purchased is EC2
+Addons: childSeat3
+Price of RentalRecord is 140
+Total price the store made that day 140
+Total number of luxury vehicles remaining in the store 5
+Luxury vehicles license ids remaining in the store are []
+Total number of MiniVan vehicles remaining in the store 6
+MiniVan vehicles license ids remaining in the store are [MV1, MV5, MV0, MV2]
+Total number of Standard vehicles remaining in the store 5
+Standard vehicles license ids remaining in the store are [SD5]
+Total number of SUV vehicles remaining in the store 3
+SUV vehicles license ids remaining in the store are []
+Total number of MiniVan vehicles remaining in the store 3
+MiniVan vehicles license ids remaining in the store are [EC3]
+SUV
+SUV5 returned by customerBusinessCustomer2
+Standard
+Standard2 returned by customerBusinessCustomer2
+Luxury
+Luxury4 returned by customerBusinessCustomer2
+SUV
+SUV5 returned by customerBusinessCustomer2
+Standard
+Standard2 returned by customerBusinessCustomer2
+Luxury
+Luxury4 returned by customerBusinessCustomer2
+SUV
+SUV5 returned by customerBusinessCustomer2
+Standard
+Standard2 returned by customerBusinessCustomer2
+Luxury
+Luxury4 returned by customerBusinessCustomer2
+-----Day NUmber 18-------
+Customer RegularCustomer11 enters the store
+customer purchases cartype MiniVan6
+License Plate of car purchased is MV0
+Addons: SatelliteRadio6
+Price of RentalRecord is 62
+customer purchases cartype SUV5
+License Plate of car purchased is SU3
+Addons: SatelliteRadio5
+Price of RentalRecord is 129
+Total price the store made that day 129
+Total number of luxury vehicles remaining in the store 6
+Luxury vehicles license ids remaining in the store are [LX2]
+Total number of MiniVan vehicles remaining in the store 5
+MiniVan vehicles license ids remaining in the store are [MV1, MV5, MV2]
+Total number of Standard vehicles remaining in the store 6
+Standard vehicles license ids remaining in the store are [SD5, SD3]
+Total number of SUV vehicles remaining in the store 4
+SUV vehicles license ids remaining in the store are []
+Total number of MiniVan vehicles remaining in the store 3
+MiniVan vehicles license ids remaining in the store are [EC3]
+Standard
+Standard2 returned by customerBusinessCustomer3
+Standard
+Standard2 returned by customerBusinessCustomer3
+MiniVan
+MiniVan6 returned by customerBusinessCustomer3
+Standard
+Standard2 returned by customerBusinessCustomer3
+Standard
+Standard2 returned by customerBusinessCustomer3
+MiniVan
+MiniVan6 returned by customerBusinessCustomer3
+Standard
+Standard2 returned by customerBusinessCustomer3
+Standard
+Standard2 returned by customerBusinessCustomer3
+MiniVan
+MiniVan6 returned by customerBusinessCustomer3
+-----Day NUmber 19-------
+Customer BusinessCustomer10 enters the store
+customer purchases cartype MiniVan6
+License Plate of car purchased is MV4
+Addons: SatelliteRadio6
+Price of RentalRecord is 78
+customer purchases cartype Luxury4
+License Plate of car purchased is LX2
+Addons: GPS4
+Price of RentalRecord is 173
+customer not able to purchase car of type null
+Price of RentalRecord is 173
+Total price the store made that day 173
+Total number of luxury vehicles remaining in the store 5
+Luxury vehicles license ids remaining in the store are []
+Total number of MiniVan vehicles remaining in the store 5
+MiniVan vehicles license ids remaining in the store are [MV1, MV5, MV2]
+Total number of Standard vehicles remaining in the store 6
+Standard vehicles license ids remaining in the store are [SD5, SD3]
+Total number of SUV vehicles remaining in the store 4
+SUV vehicles license ids remaining in the store are []
+Total number of MiniVan vehicles remaining in the store 3
+MiniVan vehicles license ids remaining in the store are [EC3]
+SUV
+SUV5 returned by customerRegularCustomer4
+Luxury
+Luxury4 returned by customerRegularCustomer4
+SUV
+SUV5 returned by customerRegularCustomer4
+Luxury
+Luxury4 returned by customerRegularCustomer4
+-----Day NUmber 20-------
+Customer BusinessCustomer2 enters the store
+customer purchases cartype SUV5
+License Plate of car purchased is SU4
+Addons: SatelliteRadio5
+Price of RentalRecord is 85
+customer purchases cartype Luxury4
+License Plate of car purchased is LX3
+Addons: GPS4
+Price of RentalRecord is 180
+customer not able to purchase car of type null
+Price of RentalRecord is 180
+Total price the store made that day 180
+Total number of luxury vehicles remaining in the store 5
+Luxury vehicles license ids remaining in the store are []
+Total number of MiniVan vehicles remaining in the store 5
+MiniVan vehicles license ids remaining in the store are [MV1, MV5, MV2]
+Total number of Standard vehicles remaining in the store 6
+Standard vehicles license ids remaining in the store are [SD5, SD3]
+Total number of SUV vehicles remaining in the store 4
+SUV vehicles license ids remaining in the store are []
+Total number of MiniVan vehicles remaining in the store 3
+MiniVan vehicles license ids remaining in the store are [EC3]
+SUV
+SUV5 returned by customerBusinessCustomer2
+MiniVan
+MiniVan6 returned by customerBusinessCustomer2
+SUV
+SUV5 returned by customerBusinessCustomer2
+MiniVan
+MiniVan6 returned by customerBusinessCustomer2
+SUV
+SUV5 returned by customerBusinessCustomer2
+MiniVan
+MiniVan6 returned by customerBusinessCustomer2
+Economy
+Economy3 returned by customerRegularCustomer11
+Economy
+Economy3 returned by customerRegularCustomer11
+-----Day NUmber 21-------
+Customer CasualCustomer1 enters the store
+customer purchases cartype MiniVan6
+License Plate of car purchased is MV2
+Addons: SatelliteRadio6
+Price of RentalRecord is 38
+customer purchases cartype SUV5
+License Plate of car purchased is SU1
+Addons: SatelliteRadio5
+Price of RentalRecord is 78
+Total price the store made that day 78
+Total number of luxury vehicles remaining in the store 5
+Luxury vehicles license ids remaining in the store are []
+Total number of MiniVan vehicles remaining in the store 5
+MiniVan vehicles license ids remaining in the store are [MV1, MV5, MV3]
+Total number of Standard vehicles remaining in the store 6
+Standard vehicles license ids remaining in the store are [SD5, SD3]
+Total number of SUV vehicles remaining in the store 4
+SUV vehicles license ids remaining in the store are []
+Total number of MiniVan vehicles remaining in the store 5
+MiniVan vehicles license ids remaining in the store are [EC3, EC0]
+Economy
+Economy3 returned by customerRegularCustomer6
+Economy
+Economy3 returned by customerRegularCustomer6
+Economy
+Economy3 returned by customerRegularCustomer6
+Economy
+Economy3 returned by customerRegularCustomer6
+-----Day NUmber 22-------
+Customer RegularCustomer6 enters the store
+customer purchases cartype Standard2
+License Plate of car purchased is SD5
+Addons: GPS2
+Price of RentalRecord is 60
+customer not able to purchase car of type null
+Price of RentalRecord is 60
+Total price the store made that day 60
+Total number of luxury vehicles remaining in the store 5
+Luxury vehicles license ids remaining in the store are []
+Total number of MiniVan vehicles remaining in the store 5
+MiniVan vehicles license ids remaining in the store are [MV1, MV5, MV3]
+Total number of Standard vehicles remaining in the store 5
+Standard vehicles license ids remaining in the store are [SD3]
+Total number of SUV vehicles remaining in the store 4
+SUV vehicles license ids remaining in the store are []
+Total number of MiniVan vehicles remaining in the store 5
+MiniVan vehicles license ids remaining in the store are [EC3, EC0]
+MiniVan
+MiniVan6 returned by customerCasualCustomer1
+SUV
+SUV5 returned by customerCasualCustomer1
+MiniVan
+MiniVan6 returned by customerCasualCustomer1
+SUV
+SUV5 returned by customerCasualCustomer1
+MiniVan
+MiniVan6 returned by customerRegularCustomer11
+SUV
+SUV5 returned by customerRegularCustomer11
+MiniVan
+MiniVan6 returned by customerRegularCustomer11
+SUV
+SUV5 returned by customerRegularCustomer11
+-----Day NUmber 23-------
+Customer RegularCustomer11 enters the store
+customer purchases cartype Standard2
+License Plate of car purchased is SD3
+Addons: GPS2
+Price of RentalRecord is 60
+customer not able to purchase car of type null
+Price of RentalRecord is 60
+Total price the store made that day 60
+Total number of luxury vehicles remaining in the store 5
+Luxury vehicles license ids remaining in the store are []
+Total number of MiniVan vehicles remaining in the store 6
+MiniVan vehicles license ids remaining in the store are [MV1, MV5, MV3, MV2]
+Total number of Standard vehicles remaining in the store 4
+Standard vehicles license ids remaining in the store are []
+Total number of SUV vehicles remaining in the store 5
+SUV vehicles license ids remaining in the store are [SU1]
+Total number of MiniVan vehicles remaining in the store 5
+MiniVan vehicles license ids remaining in the store are [EC3, EC0]
+-----Day NUmber 24-------
+Customer RegularCustomer11 enters the store
+customer purchases cartype MiniVan6
+License Plate of car purchased is MV3
+Addons: SatelliteRadio6
+Price of RentalRecord is 62
+customer not able to purchase car of type null
+Price of RentalRecord is 62
+Total price the store made that day 62
+Total number of luxury vehicles remaining in the store 5
+Luxury vehicles license ids remaining in the store are []
+Total number of MiniVan vehicles remaining in the store 5
+MiniVan vehicles license ids remaining in the store are [MV1, MV5, MV2]
+Total number of Standard vehicles remaining in the store 4
+Standard vehicles license ids remaining in the store are []
+Total number of SUV vehicles remaining in the store 5
+SUV vehicles license ids remaining in the store are [SU1]
+Total number of MiniVan vehicles remaining in the store 5
+MiniVan vehicles license ids remaining in the store are [EC3, EC0]
+-----Day NUmber 25-------
+Customer CasualCustomer1 enters the store
+customer not able to purchase car of type null
+Price of RentalRecord is 0
+customer not able to purchase car of type null
+Price of RentalRecord is 0
+Total number of luxury vehicles remaining in the store 5
+Luxury vehicles license ids remaining in the store are []
+Total number of MiniVan vehicles remaining in the store 5
+MiniVan vehicles license ids remaining in the store are [MV1, MV5, MV2]
+Total number of Standard vehicles remaining in the store 4
+Standard vehicles license ids remaining in the store are []
+Total number of SUV vehicles remaining in the store 5
+SUV vehicles license ids remaining in the store are [SU1]
+Total number of MiniVan vehicles remaining in the store 5
+MiniVan vehicles license ids remaining in the store are [EC3, EC0]
+MiniVan
+MiniVan6 returned by customerBusinessCustomer10
+Luxury
+Luxury4 returned by customerBusinessCustomer10
+MiniVan
+MiniVan6 returned by customerBusinessCustomer10
+Luxury
+Luxury4 returned by customerBusinessCustomer10
+MiniVan
+MiniVan6 returned by customerBusinessCustomer10
+Luxury
+Luxury4 returned by customerBusinessCustomer10
+-----Day NUmber 26-------
+Customer CasualCustomer1 enters the store
+customer purchases cartype Economy3
+License Plate of car purchased is EC0
+Addons: childSeat3
+Price of RentalRecord is 40
+customer not able to purchase car of type null
+Price of RentalRecord is 40
+Total price the store made that day 40
+Total number of luxury vehicles remaining in the store 6
+Luxury vehicles license ids remaining in the store are [LX2]
+Total number of MiniVan vehicles remaining in the store 6
+MiniVan vehicles license ids remaining in the store are [MV1, MV5, MV2, MV4]
+Total number of Standard vehicles remaining in the store 4
+Standard vehicles license ids remaining in the store are []
+Total number of SUV vehicles remaining in the store 5
+SUV vehicles license ids remaining in the store are [SU1]
+Total number of MiniVan vehicles remaining in the store 4
+MiniVan vehicles license ids remaining in the store are [EC3]
+SUV
+SUV5 returned by customerBusinessCustomer2
+Luxury
+Luxury4 returned by customerBusinessCustomer2
+SUV
+SUV5 returned by customerBusinessCustomer2
+Luxury
+Luxury4 returned by customerBusinessCustomer2
+SUV
+SUV5 returned by customerBusinessCustomer2
+Luxury
+Luxury4 returned by customerBusinessCustomer2
+Standard
+Standard2 returned by customerRegularCustomer6
+Standard
+Standard2 returned by customerRegularCustomer6
+-----Day NUmber 27-------
+Customer BusinessCustomer5 enters the store
+customer purchases cartype SUV5
+License Plate of car purchased is SU1
+Addons: SatelliteRadio5
+Price of RentalRecord is 85
+customer purchases cartype Economy3
+License Plate of car purchased is EC3
+Addons: childSeat3
+Price of RentalRecord is 175
+customer purchases cartype MiniVan6
+License Plate of car purchased is MV2
+Addons: SatelliteRadio6
+Price of RentalRecord is 253
+Total price the store made that day 253
+Total number of luxury vehicles remaining in the store 6
+Luxury vehicles license ids remaining in the store are [LX2]
+Total number of MiniVan vehicles remaining in the store 5
+MiniVan vehicles license ids remaining in the store are [MV1, MV5, MV4]
+Total number of Standard vehicles remaining in the store 6
+Standard vehicles license ids remaining in the store are [SD5]
+Total number of SUV vehicles remaining in the store 4
+SUV vehicles license ids remaining in the store are []
+Total number of MiniVan vehicles remaining in the store 3
+MiniVan vehicles license ids remaining in the store are []
+Economy
+Economy3 returned by customerCasualCustomer1
+Economy
+Economy3 returned by customerCasualCustomer1
+Standard
+Standard2 returned by customerRegularCustomer11
+Standard
+Standard2 returned by customerRegularCustomer11
+-----Day NUmber 28-------
+Customer BusinessCustomer5 enters the store
+customer not able to purchase car of type null
+Price of RentalRecord is 0
+customer purchases cartype Standard2
+License Plate of car purchased is SD5
+Addons: GPS2
+Price of RentalRecord is 74
+customer purchases cartype Economy3
+License Plate of car purchased is EC0
+Addons: childSeat3
+Price of RentalRecord is 164
+Total price the store made that day 164
+Total number of luxury vehicles remaining in the store 6
+Luxury vehicles license ids remaining in the store are [LX2]
+Total number of MiniVan vehicles remaining in the store 5
+MiniVan vehicles license ids remaining in the store are [MV1, MV5, MV4]
+Total number of Standard vehicles remaining in the store 5
+Standard vehicles license ids remaining in the store are []
+Total number of SUV vehicles remaining in the store 4
+SUV vehicles license ids remaining in the store are []
+Total number of MiniVan vehicles remaining in the store 4
+MiniVan vehicles license ids remaining in the store are []
+MiniVan
+MiniVan6 returned by customerRegularCustomer11
+MiniVan
+MiniVan6 returned by customerRegularCustomer11
+-----Day NUmber 29-------
+Customer BusinessCustomer10 enters the store
+customer not able to purchase car of type null
+Price of RentalRecord is 0
+customer not able to purchase car of type null
+Price of RentalRecord is 0
+customer not able to purchase car of type null
+Price of RentalRecord is 0
+Total number of luxury vehicles remaining in the store 6
+Luxury vehicles license ids remaining in the store are [LX2]
+Total number of MiniVan vehicles remaining in the store 6
+MiniVan vehicles license ids remaining in the store are [MV1, MV5, MV4, MV3]
+Total number of Standard vehicles remaining in the store 5
+Standard vehicles license ids remaining in the store are []
+Total number of SUV vehicles remaining in the store 4
+SUV vehicles license ids remaining in the store are []
+Total number of MiniVan vehicles remaining in the store 4
+MiniVan vehicles license ids remaining in the store are []
+-----Day NUmber 30-------
+Customer BusinessCustomer2 enters the store
+customer not able to purchase car of type null
+Price of RentalRecord is 0
+customer not able to purchase car of type null
+Price of RentalRecord is 0
+customer not able to purchase car of type null
+Price of RentalRecord is 0
+Total number of luxury vehicles remaining in the store 6
+Luxury vehicles license ids remaining in the store are [LX2]
+Total number of MiniVan vehicles remaining in the store 6
+MiniVan vehicles license ids remaining in the store are [MV1, MV5, MV4, MV3]
+Total number of Standard vehicles remaining in the store 5
+Standard vehicles license ids remaining in the store are []
+Total number of SUV vehicles remaining in the store 4
+SUV vehicles license ids remaining in the store are []
+Total number of MiniVan vehicles remaining in the store 4
+MiniVan vehicles license ids remaining in the store are []
+-----Day NUmber 31-------
+Customer RegularCustomer9 enters the store
+customer not able to purchase car of type null
+Price of RentalRecord is 0
+customer not able to purchase car of type null
+Price of RentalRecord is 0
+Total number of luxury vehicles remaining in the store 6
+Luxury vehicles license ids remaining in the store are [LX2]
+Total number of MiniVan vehicles remaining in the store 6
+MiniVan vehicles license ids remaining in the store are [MV1, MV5, MV4, MV3]
+Total number of Standard vehicles remaining in the store 5
+Standard vehicles license ids remaining in the store are []
+Total number of SUV vehicles remaining in the store 4
+SUV vehicles license ids remaining in the store are []
+Total number of MiniVan vehicles remaining in the store 4
+MiniVan vehicles license ids remaining in the store are []
+-----Day NUmber 32-------
+Customer CasualCustomer1 enters the store
+customer not able to purchase car of type null
+Price of RentalRecord is 0
+customer not able to purchase car of type null
+Price of RentalRecord is 0
+Total number of luxury vehicles remaining in the store 6
+Luxury vehicles license ids remaining in the store are [LX2]
+Total number of MiniVan vehicles remaining in the store 6
+MiniVan vehicles license ids remaining in the store are [MV1, MV5, MV4, MV3]
+Total number of Standard vehicles remaining in the store 5
+Standard vehicles license ids remaining in the store are []
+Total number of SUV vehicles remaining in the store 4
+SUV vehicles license ids remaining in the store are []
+Total number of MiniVan vehicles remaining in the store 4
+MiniVan vehicles license ids remaining in the store are []
+-----Day NUmber 33-------
+Customer BusinessCustomer3 enters the store
+customer not able to purchase car of type null
+Price of RentalRecord is 0
+customer not able to purchase car of type null
+Price of RentalRecord is 0
+customer not able to purchase car of type null
+Price of RentalRecord is 0
+Total number of luxury vehicles remaining in the store 6
+Luxury vehicles license ids remaining in the store are [LX2]
+Total number of MiniVan vehicles remaining in the store 6
+MiniVan vehicles license ids remaining in the store are [MV1, MV5, MV4, MV3]
+Total number of Standard vehicles remaining in the store 5
+Standard vehicles license ids remaining in the store are []
+Total number of SUV vehicles remaining in the store 4
+SUV vehicles license ids remaining in the store are []
+Total number of MiniVan vehicles remaining in the store 4
+MiniVan vehicles license ids remaining in the store are []
+SUV
+SUV5 returned by customerBusinessCustomer5
+Economy
+Economy3 returned by customerBusinessCustomer5
+MiniVan
+MiniVan6 returned by customerBusinessCustomer5
+SUV
+SUV5 returned by customerBusinessCustomer5
+Economy
+Economy3 returned by customerBusinessCustomer5
+MiniVan
+MiniVan6 returned by customerBusinessCustomer5
+SUV
+SUV5 returned by customerBusinessCustomer5
+Economy
+Economy3 returned by customerBusinessCustomer5
+MiniVan
+MiniVan6 returned by customerBusinessCustomer5
+-----Day NUmber 34-------
+Customer BusinessCustomer2 enters the store
+customer purchases cartype Economy3
+License Plate of car purchased is EC3
+Addons: childSeat3
+Price of RentalRecord is 90
+customer not able to purchase car of type null
+Price of RentalRecord is 90
+customer purchases cartype MiniVan6
+License Plate of car purchased is MV1
+Addons: SatelliteRadio6
+Price of RentalRecord is 168
+Total price the store made that day 168
+total number of completed rentals
++++++++++++++++++++++++++++++++++++++ Summary +++++++++++++++++++++++++++++
+Total completed rentals is 63
+Total completed rentals for regular customer is 24
+Total completed rentals for business customer is 33
+Total completed rentals for casual customer is 6
+Total profit of store for the entire period 8023
